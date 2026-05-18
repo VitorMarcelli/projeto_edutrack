@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Agent / PRD files
+.agent/
+.claude/
+edutrack-mobile/.claude/
+edutrack-mobile/CLAUDE.md
+edutrack-mobile/AGENTS.md
+docs/*.md
